@@ -9,6 +9,7 @@ body{
   }
   section{
     display: flex;
+    margin-bottom: 150px;
   }
   .half{
     width: 50%;
@@ -24,4 +25,15 @@ body{
      font-weight: 700;
      border-radius: 5px;
 
+  }
+  
+  .link2{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+  }
+  .web{
+    font-size: 35px;
   }
