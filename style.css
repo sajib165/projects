@@ -4,6 +4,9 @@ body{
  h1{
     font-size: 50px;
  }
+  .ru{ 
+    font-size: 39px;
+  }
   .or{
     color: orange;
   }
@@ -36,4 +39,25 @@ body{
   }
   .web{
     font-size: 35px;
+  }
+  .ex{ 
+    width: 50%;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+  }
+  #baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,tomato);
+    border-image-slice: 1;
+  }
+  #know{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+  }
+  footer p{
+    text-align: center;
   }
