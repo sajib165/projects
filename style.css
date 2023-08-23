@@ -7,7 +7,7 @@ body{
   .or{
     color: orange;
   }
-  section{
+  .flexible{
     display: flex;
     margin-bottom: 150px;
   }
